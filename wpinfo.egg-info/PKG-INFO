@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: wpinfo
+Version: 0.1.0
+Summary: WordPress information enumeration and scraping tool
+Home-page: https://github.com/Deadpool2000/wpinfo
+Author: Deadpool2k
+Author-email: d2kyt@protonmail.com
+Keywords: wordpress info enumeration scraping web,scraping,wordpress,web scraping,wordpress info enumeration,wordpress scraping,wordpress info,wordpress enumeration,wordpress web scraping,wordpress web info,wordpress web enumeration,wordpress web info enumeration,wordpress web scraping info,wordpress web scraping enumeration,wordpress web scraping info enumeration
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
 # 📰 WPInfo
 
 **WPInfo** is a lightweight Python library that extracts publicly available information from any WordPress website.

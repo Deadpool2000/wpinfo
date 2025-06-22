@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+wpinfo/__init__.py
+wpinfo/core.py
+wpinfo.egg-info/PKG-INFO
+wpinfo.egg-info/SOURCES.txt
+wpinfo.egg-info/dependency_links.txt
+wpinfo.egg-info/top_level.txt
